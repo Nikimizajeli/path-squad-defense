@@ -1,0 +1,696 @@
+fileFormatVersion: 2
+guid: 7b209f27a2e3a5c46bb666eaade915a4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4508092459838573849
+    second: goblin_walking_00
+  - first:
+      213: -1195494345086206684
+    second: goblin_walking_01
+  - first:
+      213: 7732487801570336679
+    second: goblin_walking_04
+  - first:
+      213: -1498679003098995952
+    second: goblin_walking_06
+  - first:
+      213: -726163805738277613
+    second: goblin_walking_07
+  - first:
+      213: 5567552983073291678
+    second: goblin_walking_09
+  - first:
+      213: -1353749905706872814
+    second: goblin_walking_08
+  - first:
+      213: 8489772674354850389
+    second: goblin_walking_10
+  - first:
+      213: -5508520502593975155
+    second: goblin_walking_22
+  - first:
+      213: 4955196895858729196
+    second: goblin_walking_02
+  - first:
+      213: 2128952529174757268
+    second: goblin_walking_03
+  - first:
+      213: -4157553781571986398
+    second: goblin_walking_05
+  - first:
+      213: -6967882094052172315
+    second: goblin_walking_07
+  - first:
+      213: -6631404271603299091
+    second: goblin_walking_09
+  - first:
+      213: 6930954685828369138
+    second: goblin_walking_09
+  - first:
+      213: -8604821154269056057
+    second: goblin_walking_09
+  - first:
+      213: -2440651132830606941
+    second: goblin_walking_16
+  - first:
+      213: -8291505028374657047
+    second: goblin_walking_08
+  - first:
+      213: 30333394219037508
+    second: goblin_walking_09
+  - first:
+      213: 1286088834336230072
+    second: goblin_walking_03
+  - first:
+      213: 9177720396290912916
+    second: goblin_walking_05
+  - first:
+      213: -6024046006618107915
+    second: goblin_walking_16
+  - first:
+      213: 4300331457547055033
+    second: goblin_walking_11
+  - first:
+      213: 5250512365688417995
+    second: goblin_walking_20
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 900
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: goblin_walking_00
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 3338
+        width: 395
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e274bceac90071c0800000000000000
+      internalID: -4508092459838573849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_walking_01
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 3338
+        width: 396
+        height: 540
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42df5262a30c86fe0800000000000000
+      internalID: -1195494345086206684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_walking_04
+      rect:
+        serializedVersion: 2
+        x: 2038
+        y: 3342
+        width: 388
+        height: 540
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af14a2efa05f4b60800000000000000
+      internalID: 7732487801570336679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_walking_06
+      rect:
+        serializedVersion: 2
+        x: 2930
+        y: 3342
+        width: 388
+        height: 540
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013a2f3136f933be0800000000000000
+      internalID: -1498679003098995952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_walking_12
+      rect:
+        serializedVersion: 2
+        x: 3846
+        y: 3334
+        width: 396
+        height: 540
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3156936bdd52ce5f0800000000000000
+      internalID: -726163805738277613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_walking_13
+      rect:
+        serializedVersion: 2
+        x: 4746
+        y: 3334
+        width: 396
+        height: 544
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9dff30a0fbe34d40800000000000000
+      internalID: 5567552983073291678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_walking_17
+      rect:
+        serializedVersion: 2
+        x: 5634
+        y: 3338
+        width: 388
+        height: 544
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2109f9b12a3863de0800000000000000
+      internalID: -1353749905706872814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_walking_19
+      rect:
+        serializedVersion: 2
+        x: 6530
+        y: 3342
+        width: 388
+        height: 540
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a2dbe344bb1d570800000000000000
+      internalID: 8489772674354850389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_walking_23
+      rect:
+        serializedVersion: 2
+        x: 7442
+        y: 3338
+        width: 392
+        height: 540
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c0eecc9cdcd83b0800000000000000
+      internalID: -5508520502593975155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_walking_02
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 2450
+        width: 392
+        height: 540
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce027c1b25564c440800000000000000
+      internalID: 4955196895858729196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_walking_03
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 2450
+        width: 392
+        height: 540
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f712dab0f8b8d10800000000000000
+      internalID: 2128952529174757268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_walking_05
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 2442
+        width: 388
+        height: 540
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22cd1d20dd66d46c0800000000000000
+      internalID: -4157553781571986398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_walking_07
+      rect:
+        serializedVersion: 2
+        x: 2930
+        y: 2442
+        width: 388
+        height: 540
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed1733272c1d4f90800000000000000
+      internalID: -6967882094052172315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_walking_14
+      rect:
+        serializedVersion: 2
+        x: 3846
+        y: 2434
+        width: 396
+        height: 544
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: decc31d13f488f3a0800000000000000
+      internalID: -6631404271603299091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_walking_15
+      rect:
+        serializedVersion: 2
+        x: 4742
+        y: 2438
+        width: 395
+        height: 540
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa0123a092bf2060800000000000000
+      internalID: 6930954685828369138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_walking_18
+      rect:
+        serializedVersion: 2
+        x: 5630
+        y: 2442
+        width: 388
+        height: 540
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3b60020c8859880800000000000000
+      internalID: -8604821154269056057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_walking_21
+      rect:
+        serializedVersion: 2
+        x: 6534
+        y: 2442
+        width: 388
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a91afec9b0112ed0800000000000000
+      internalID: -2440651132830606941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_walking_08
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1542
+        width: 388
+        height: 540
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e70d526b18aeec80800000000000000
+      internalID: -8291505028374657047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_walking_09
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 1542
+        width: 388
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443f143bf04cb6000800000000000000
+      internalID: 30333394219037508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_walking_10
+      rect:
+        serializedVersion: 2
+        x: 2038
+        y: 1538
+        width: 392
+        height: 540
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba05381bfa19d110800000000000000
+      internalID: 1286088834336230072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_walking_11
+      rect:
+        serializedVersion: 2
+        x: 2942
+        y: 1538
+        width: 392
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492f6c42310dd5f70800000000000000
+      internalID: 9177720396290912916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_walking_16
+      rect:
+        serializedVersion: 2
+        x: 3838
+        y: 1538
+        width: 392
+        height: 542
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ffcae0e21a466ca0800000000000000
+      internalID: -6024046006618107915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_walking_20
+      rect:
+        serializedVersion: 2
+        x: 4730
+        y: 1542
+        width: 384
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bfa78f2da8ddab30800000000000000
+      internalID: 4300331457547055033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_walking_22
+      rect:
+        serializedVersion: 2
+        x: 5638
+        y: 1538
+        width: 388
+        height: 540
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce67ad9d219dd840800000000000000
+      internalID: 5250512365688417995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
